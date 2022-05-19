@@ -1,4 +1,4 @@
-## Welcome to my github profile! 👋
+## Hi I'm Sandro Sena, Front-end Engineer at GamerSafer 👋
 <div align="center">
   <a href="https://github.com/sandrosena">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=sandrosena&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>

@@ -17,7 +17,7 @@
  
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/sandrosena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="[https://medium.com/@th.guibert](https://medium.com/@sandro-sena)" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://medium.com/@sandro-sena" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
  
   ![Snake animation](https://github.com/sandrosena/sandrosena/blob/output/github-contribution-grid-snake.svg)
  

@@ -1,4 +1,6 @@
-## Hi I'm Sandro Sena, Front-end Engineer at GamerSafer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+<div align="center">
+## Hi I'm Sandro Sena, Front-end Engineer at GamerSafer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" text>
+</div>
 
 <div align="center">
   <a href="https://github.com/sandrosena">
